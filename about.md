@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+This is a blog about the Screen Builder application. It's early days. There's not a lot to say yet.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[toby@snaplab.co.uk](mailto:toby@snaplab.co.uk)
