@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is a blog about the Screen Builder application. It's early days. There's not a lot to say yet.
+This is a blog about building a startup. It's early days and there's lots to do. 
 
 ### Contact me
 
