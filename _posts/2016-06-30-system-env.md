@@ -10,7 +10,7 @@ The other day I realised that my little app would be better off behind some basi
 In its most basic form, all I needed was to add a plug to the router pipeline:
 
 ```
-plug BasicAuth, realm: “Under Construction”,+ username: “admin”, password: System.get_env(“DEV_PWD”)
+plug BasicAuth, realm: “Under Construction”, username: “admin”, password: System.get_env(“DEV_PWD”)
 ```
 
 Push, deploy, restart. And add the environment variable to the dokku config
